@@ -31,7 +31,7 @@ public class QuestionService {
 
 
     public List<Question> getAllByExam(Integer examId) {
-        logger.info("Performing database query to find all exam");
+        logger.info("Performing database query to find all exam #examid = "+examId);
         return this.questionRepository.getAllByExam_Id(examId);
     }
 
@@ -57,7 +57,7 @@ public class QuestionService {
     }
 
     public List<QuestionEmsDto> getAllByExamPruned(Exam exam) {
-        logger.info("Service called for exam pruning");
+        logger.info("Service called for exam pruning #examid = "+exam.getId());
         List<Question> questions = this.questionRepository.getAllByExam_Id(exam.getId());
         logger.info("Returning the prunning result");
         return questionsFromModelToEms(questions);

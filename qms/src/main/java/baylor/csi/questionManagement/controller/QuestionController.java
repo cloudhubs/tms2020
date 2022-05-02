@@ -152,7 +152,7 @@ public class QuestionController {
             if (question == null) {
                 throw new ResourceNotFoundException("Question not found with id " + questionId);
             }
-            logger.info("Setting update information for existing question")
+            logger.info("Setting update information for existing question");
             question.setTitle(payload.get("title").toString());
             question.setBody(payload.get("body").toString());
             question.setLevel(Integer.parseInt(payload.get("level").toString()));

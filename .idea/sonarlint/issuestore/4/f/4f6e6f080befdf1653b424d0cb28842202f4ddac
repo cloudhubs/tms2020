@@ -1,0 +1,22 @@
+
+`	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(Šğ®…úÿÿÿÿ
+E
+java:S11977"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ªõ»ùÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ô›¶¿şÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(ùÖğÓ
+E
+java:S2093B"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(µ¨„‹
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¡ˆ¥şÿÿÿÿ
+M	java:S106_"9Replace this use of System.out or System.err by a logger.(Çğõ"
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(×›£¾üÿÿÿÿ
+J
+java:S1066W"/Merge this if statement with the enclosing one.(§ıíÍüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+d
+java:S2095l"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(„õ½‰
+l
+java:S2095k"QUse try-with-resources or close this "ReadableByteChannel" in a "finally" clause.(€Ç—øÿÿÿÿ

@@ -31,7 +31,7 @@ public class ChoiceService {
         logger.info("Service called for select choices wtih with choice data");
         // Find choices by question id
         List<Choice> choices = this.choiceRepository.findByQuestionId(selectedChoiceEmsDto.getQuestionId());
-        logger.info("Service perform database query for finding choices with question id of choice");
+        logger.info("Service perform database query for finding choices with question id of choice #questionid = "+selectedChoiceEmsDto.getQuestionId());
         //Select choices and unselect choices
         for (Choice ch : choices) {
             for (ChoiceEmsDto chEms : selectedChoiceEmsDto.getChoiceEmsDtos()
@@ -47,7 +47,7 @@ public class ChoiceService {
         logger.info("Service perform database persist operation with chosen choices");
 
         List<Question> questions = questionRepository.getAllByExam_Id(selectedChoiceEmsDto.getExamId());
-        logger.info("Service perform database query for finding choices with exam id of choice");
+        logger.info("Service perform database query for finding choices with exam id of choice #examid = "+selectedChoiceEmsDto.getExamId());
 
         Integer correct = 0;
         logger.info("checking every choices for correct questions");

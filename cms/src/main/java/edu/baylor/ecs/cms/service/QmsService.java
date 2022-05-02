@@ -31,7 +31,7 @@ public class QmsService {
     public ResponseEntity<Object[]> getCategoryInfoDtos() {
         logger.info("Service called for get category information");
         String categoryInfoPath = qmsIp + categoryInfoContext;
-        logger.info("Rest API called to obtain iformaiton");
+        logger.info("Rest API called to obtain iformaiton #info_path = "+categoryInfoPath);
         logger.info("Returning the result");
         ResponseEntity<Object[]> response = restTemplate.getForEntity(qmsIp + categoryInfoContext, Object[].class);
         return ResponseEntity.ok(response.getBody());
@@ -56,26 +56,26 @@ public class QmsService {
     public ResponseEntity<Object[]> getConfigurations() {
         logger.info("Service called for getting all existing configurations");
         logger.info("Rest API called for finding all existing configurations");
-        logger.info("Returning the result");
         ResponseEntity<Object[]> response = restTemplate.getForEntity(qmsIp + configurationContext, Object[].class);
-        return ResponseEntity.ok(Objects.requireNonNull(response.getBody()));
+        logger.info("Returning the result");
+        return ResponseEntity.ok(response.getBody());
     }
 
     public ResponseEntity<Object> getConfiguration(Long configurationId) {
         logger.info("Service called for getting specific configuration");
         logger.info("Rest API called for finding specific configuration");
-        logger.info("Returning the result");
         ResponseEntity<Object> response = restTemplate.getForEntity(qmsIp + configurationContext + "/" + configurationId.toString(), Object.class);
+        logger.info("Returning the result");
         return ResponseEntity.ok(response.getBody());
     }
 
     public ResponseEntity<?> deleteConfiguration(Long configurationId) {
         logger.info("Service called for deleting existing configuration");
         String url = qmsIp + configurationContext + "/{configurationId}";
-        logger.info("URL generated");
+        logger.info("URL generated #url = "+url);
         Map<String, String> params = new HashMap<>();
         params.put("configurationId", configurationId.toString());
-        logger.info("Rest API called for delete existing configuration");
+        logger.info("Rest API called for delete existing configuration #configurationid = "+configurationId);
         restTemplate.delete(url, params);
         logger.info("Returning success notification");
         return ResponseEntity.ok().build();

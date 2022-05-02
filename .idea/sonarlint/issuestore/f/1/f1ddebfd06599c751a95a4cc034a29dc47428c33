@@ -1,0 +1,16 @@
+
+V	java:S125!"<This block of commented-out lines of code should be removed.(Úöğ›ûÿÿÿÿ
+Q	java:S1255"<This block of commented-out lines of code should be removed.(Ò†Û 
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(é´¦Õ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(Ÿıó
+G
+java:S3599G",Use another way to initialize this instance.(®©¢›şÿÿÿÿ
+t
+java:S1171G"YMove the contents of this initializer to a standard constructor or to field initializers.(®©¢›şÿÿÿÿ
+?
+java:S1172Q")Remove this unused method parameter "id".(ãÜæÓ
+V	java:S125R"<This block of commented-out lines of code should be removed.(Ÿõğíûÿÿÿÿ
+O
+java:S3400]"9Remove this method and declare a constant for this value.(È¸å
+t
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(šÔü´şÿÿÿÿ

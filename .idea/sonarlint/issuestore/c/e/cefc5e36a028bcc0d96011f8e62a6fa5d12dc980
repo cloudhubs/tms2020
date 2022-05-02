@@ -1,0 +1,16 @@
+
+Bjavascript:S1128
+"&Remove this unused import of 'Dialog'.(áï”£
+Djavascript:S1128"#Remove this unused import of 'Tab'.(ºÆ•Óüÿÿÿÿ
+Ejavascript:S1128"$Remove this unused import of 'Tabs'.(Äóƒşÿÿÿÿ
+Gjavascript:S1128"&Remove this unused import of 'saveAs'.(Ğæ½…ıÿÿÿÿ
+Jjavascript:S1128")Remove this unused import of 'FileSaver'.(Ğæ½…ıÿÿÿÿ
+Vjavascript:S1481o"5Remove the declaration of the unused 'list' variable.(»é¡§üÿÿÿÿ
+Sjavascript:S1854o"2Remove this useless assignment to variable "list".(»é¡§üÿÿÿÿ
+Ujavascript:S1117»"3'FileSaver' is already declared in the upper scope.(âÙÖıÿÿÿÿ
+Ujavascript:S1117Ê"3'FileSaver' is already declared in the upper scope.(âÙÖıÿÿÿÿ
+Ujavascript:S1117Û"3'FileSaver' is already declared in the upper scope.(âÙÖıÿÿÿÿ
+\javascript:S1481û":Remove the declaration of the unused 'searchTab' variable.(‡»«¢ıÿÿÿÿ
+Yjavascript:S1854û"7Remove this useless assignment to variable "searchTab".(‡»«¢ıÿÿÿÿ
+_javascript:S1481û"=Remove the declaration of the unused 'categoryList' variable.(‡»«¢ıÿÿÿÿ
+\javascript:S1854û":Remove this useless assignment to variable "categoryList".(‡»«¢ıÿÿÿÿ

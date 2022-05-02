@@ -1,0 +1,14 @@
+
+9javascript:S3863"'react' import is duplicated.(³îÒ‹
+Fjavascript:S1128"%Remove this unused import of 'Paper'.(ðÙþïýÿÿÿÿ
+Ejavascript:S1128"$Remove this unused import of 'List'.(üðí°ÿÿÿÿÿ
+Djavascript:S1128"(Remove this unused import of 'ListItem'.(¬Ñàø
+Hjavascript:S1128",Remove this unused import of 'ListItemIcon'.(­Ýˆ¬
+Mjavascript:S1128",Remove this unused import of 'ListItemText'.(¨ÿ³¿øÿÿÿÿ
+]javascript:S14813"ARemove the declaration of the unused 'handleChangeBody' variable.(Å²Þ¡
+Zjavascript:S18543">Remove this useless assignment to variable "handleChangeBody".(Å²Þ¡
+Vjavascript:S1481:":Remove the declaration of the unused 'descError' variable.(•Œë™
+Sjavascript:S1854:"7Remove this useless assignment to variable "descError".(•Œë™
+Ljavascript:S1854<"0Remove this useless assignment to variable "id".(äáÜ¼
+Xjavascript:S1481<"<Remove the declaration of the unused 'description' variable.(äáÜ¼
+Ujavascript:S1854<"9Remove this useless assignment to variable "description".(äáÜ¼

@@ -24,7 +24,7 @@ public class EmailService {
     private JavaMailSender javaMailSender;
 
     public void sendExamStartDateReminder(Exam exam) {
-        logger.info("Serevice called for sending exam start date reminder");
+        logger.info("Serevice called for sending exam start date reminder #examid = "+ exam.getId());
         String subject = "Texas Teacher Training exam start date reminder";
         DateFormat dateFormat = new SimpleDateFormat("MMMM d, yyyy");
         logger.info("Creating email");
@@ -54,7 +54,7 @@ public class EmailService {
     }
 
     public void sendExamAssignmentNotification(Exam exam) {
-        logger.info("Service called for sending exam assignment notification");
+        logger.info("Service called for sending exam assignment notification #examid = "+exam.getId());
         String subject = "Texas Teacher Training exam assignment";
         DateFormat dateFormat = new SimpleDateFormat("MMMM d, yyyy");
         logger.info("Email created");

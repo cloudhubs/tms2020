@@ -1,0 +1,36 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(„Ÿ¬¼ıÿÿÿÿ
+H
+java:S1135/"2Complete the task associated to this TODO comment.(çú„ª
+M
+java:S11356"2Complete the task associated to this TODO comment.(š”Úÿÿÿÿÿ
+V	java:S125D"<This block of commented-out lines of code should be removed.(á©·ûÿÿÿÿ
+m
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(¾ìÙÌûÿÿÿÿ
+H
+java:S1135n"2Complete the task associated to this TODO comment.(‡áÕ»
+h
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ì¶‚-
+i
+java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(à†àË
+N
+java:S1135Æ"2Complete the task associated to this TODO comment.(µšÈ«ıÿÿÿÿ
+n
+java:S3776ğ"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(üşÛ³ùÿÿÿÿ
+I
+java:S1172ğ"-Remove this unused method parameter "isEdit".(üşÛ³ùÿÿÿÿ
+I
+java:S1135„"2Complete the task associated to this TODO comment.(ÇË…¯
+I
+java:S1135«"2Complete the task associated to this TODO comment.(ßŠ©Ñ
+n
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‰ô³øÿÿÿÿ
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(æîÆà
+N
+java:S1135Ê"2Complete the task associated to this TODO comment.(ñ³®şúÿÿÿÿ
+K
+java:S1066¡"/Merge this if statement with the enclosing one.(«îûÿÿÿÿ
+K
+java:S1066§"/Merge this if statement with the enclosing one.(Ø¤ñ—ıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò½ô•ùÿÿÿÿ

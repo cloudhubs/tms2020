@@ -8,6 +8,91 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/controller/LogController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/ClassMethods.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/ClassObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/ForStmtModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/IfStmtModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/InvokedMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/Log.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/LogModelDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/MethodLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/model/MethodModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/repository/ModelRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/service/ConverterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/service/DirExplorer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/service/GVGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/service/LogFinderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/service/NodeIterator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../logparser/src/main/java/com/cloudhubs/logparser/service/TestService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/cms-client/Dockerfile">
           <value>
             <set />
@@ -33,7 +118,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/cms/src/main/java/edu/baylor/ecs/cms/dto/QuestionCountsDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cms/src/main/java/edu/baylor/ecs/cms/service/EmsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/cms/src/main/java/edu/baylor/ecs/cms/service/QmsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cms/src/main/java/edu/baylor/ecs/cms/service/UmsService.java">
           <value>
             <set />
           </value>
@@ -58,12 +158,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/component/TaskScheduling.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/controller/ChoiceController.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/controller/ExamController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/service/ChoiceService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/service/EmailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/service/ExamService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/service/QmsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ems/src/main/java/edu/baylor/ems/service/QuestionService.java">
           <value>
             <set />
           </value>
@@ -74,6 +204,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/keycloak/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/qms/src/main/java/baylor/csi/questionManagement/controller/CategoryController.java">
           <value>
             <set />
           </value>

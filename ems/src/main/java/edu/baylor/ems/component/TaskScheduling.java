@@ -28,19 +28,19 @@ public class TaskScheduling {
     @Scheduled(cron = "0 0 9 * * ?") // every day at 9 am
 //    @Scheduled(cron = "0/30 * * * * ?") // every 30 seconds, for testing
     public void sendExamReminders() {
-        logger.info("Task for sending exam reminders");
         Date today = new Date();
+        logger.info("Task for sending exam reminders #date="+today);
         Calendar c = Calendar.getInstance();
         c.setTime(today);
         c.add(Calendar.DATE, 1);
         Date tomorrow = c.getTime();
         DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
-        logger.info("Finding data about the exam of today");
+        logger.info("Finding data about the exam of today #date = "+today);
 //        System.out.println("Tomorrow: " + dateFormat.format(tomorrow)); //2016/11/16 12:08:43
 
         // Note: calendar.get(Calendar.MONTH) returns 0 for January, 1 for February, and so on. only MONTH
         List<Exam> examsStartTomorrow = examRepository.findByExamDateFrom(c.get(Calendar.YEAR), c.get(Calendar.MONTH) + 1, c.get(Calendar.DAY_OF_MONTH));
-        logger.info("Calling eamil service to send email about today's exam");
+        logger.info("Calling eamil service to send email about today's exam #date = "+today);
         for (Exam exam : examsStartTomorrow) {
             emailService.sendExamStartDateReminder(exam);
         }

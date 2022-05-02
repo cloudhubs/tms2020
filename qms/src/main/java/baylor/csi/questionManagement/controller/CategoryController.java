@@ -56,7 +56,7 @@ public class CategoryController {
     @CrossOrigin
     @GetMapping("/{categoryId}")
     public Category findCategoriesById(@PathVariable Long categoryId) {
-        logger.info("Request comes for finding specific category with id");
+        logger.info("Request comes for finding specific category with id #categoryId = "+categoryId);
         logger.info("Repository called for database query");
         logger.info("Returning the result");
         return categoryRepository.findById(categoryId).orElse(null);
@@ -65,7 +65,7 @@ public class CategoryController {
     @CrossOrigin
     @PostMapping("")
     public Category createCategory(@Valid @RequestBody Category category) {
-        logger.info("Request comes for creating category");
+        logger.info("Request comes for creating category #category_name = "+category.getName());
         logger.info("Repository called for creating new category");
         logger.info("Returning the new category");
         return categoryRepository.save(category);
@@ -88,7 +88,7 @@ public class CategoryController {
     @CrossOrigin
     @DeleteMapping("/{categoryId}")
     public ResponseEntity<?> deleteCateogry(@PathVariable Long categoryId) {
-        logger.info("Request comes for deleting new category");
+        logger.info("Request comes for deleting new category #categoryid = "+categoryId);
         logger.info("Repository called for deleting existing category");
         logger.info("Returning the success/error notification");
         return categoryRepository.findById(categoryId)

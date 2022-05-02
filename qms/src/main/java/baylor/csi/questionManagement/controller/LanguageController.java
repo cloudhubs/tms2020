@@ -63,7 +63,7 @@ public class LanguageController {
     @CrossOrigin
     @PutMapping("/{languageId}")
     public Language updateLanguage(@PathVariable Long languageId, @Valid @RequestBody Language languageRequest) {
-        logger.info(T "Request for update language");
+        logger.info("Request for update language");
         return languageRepository.findById(languageId)
                 .map(language -> {
                     language.setName(languageRequest.getName());

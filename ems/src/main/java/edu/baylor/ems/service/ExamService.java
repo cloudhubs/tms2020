@@ -36,14 +36,14 @@ public class ExamService {
 
     public Optional<Exam> findById(Integer id) {
 
-        logger.info("Performing database query to find exam by id");
-        ogger.info("returning the result");
+        logger.info("Performing database query to find exam by id #examid = "+id);
+        logger.info("returning the result");
         return this.examRepository.findById(id);
     }
 
     public void deleteExam(Integer id) {
-        logger.info("Perform database query to delete exam");
-        ogger.info("returning the result");
+        logger.info("Perform database query to delete exam #examid = "+id);
+        logger.info("returning the result");
         this.examRepository.deleteById(id);
     }
 
@@ -54,7 +54,7 @@ public class ExamService {
     }
 
     public List<Exam> findAllExamsByStatus(String status) {
-        logger.info("Service called for find all exam based on exam status");
+        logger.info("Service called for find all exam based on exam status #status = "+status);
 
         List<Exam> allExams = findAllExams();
         logger.info("filtered the exams based on their stutus");
@@ -70,13 +70,13 @@ public class ExamService {
     }
 
     public ResponseEntity<Exam> submitExam(Integer examId) {
-        logger.info("Perform database query to find exam by id");
+        logger.info("Perform database query to find exam by id #examid = "+examId);
         Optional<Exam> optionalExam = this.findById(examId);
         if (!optionalExam.isPresent()) {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
         Exam exam = optionalExam.get();
-        logger.info("Update exam data");
+        logger.info("Update exam data #examid = "+exam.getId());
         exam.setStatus(ExamStatus.DONE);
         exam.setSubmissionDate(new Date());
         exam = this.examRepository.saveAndFlush(exam);
@@ -107,7 +107,7 @@ public class ExamService {
     }
 
     public ResponseEntity<List<QuestionEmsDto>> takeExam(Integer id) {
-        logger.info("Perform database query to find exam by id");
+        logger.info("Perform database query to find exam by id #examid = "+id);
         Optional<Exam> optionalExam = this.findById(id);
         if (!optionalExam.isPresent()) {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
@@ -169,7 +169,7 @@ public class ExamService {
     }
 
     private Exam setExamDate(Exam exam) {
-        logger.info("Service Setting the exam date");
+        logger.info("Service Setting the exam date #examid ="+exam.getId());
         long ONE_MINUTE_IN_MILLIS = 60000;
         Calendar date = Calendar.getInstance();
         long t = date.getTimeInMillis();
@@ -186,14 +186,14 @@ public class ExamService {
 
 
     public ResponseEntity<Object> finishExam(Integer id) {
-        logger.info("Perform database query to find exam by id");
+        logger.info("Perform database query to find exam by id #examid = "+id);
         Optional<Exam> optionalExam = this.findById(id);
         if (optionalExam.isPresent()) {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
         Exam exam = optionalExam.get();
         Date currentDate = new Date();
-        logger.info("Updating the data of found exam");
+        logger.info("Updating the data of found exam #date = "+currentDate);
         if (currentDate.before(exam.getExamDate()) || currentDate.equals(exam.getExamDate())) {
             logger.info("Setting exam status as done");
             exam.setStatus(ExamStatus.DONE);
@@ -201,7 +201,7 @@ public class ExamService {
             List<Question> questions = this.questionService.getAllByExam(exam.getId());
             exam.setSum(questions.size());
             Integer correct = 0;
-            logger.info("Checking the validity of exam questions");
+            logger.info("Checking the validity of exam questions #examid = "+exam.getId());
             for (Question q : questions
             ) {
                 boolean same = true;
@@ -230,10 +230,10 @@ public class ExamService {
     }
 
     public ExamReviewDto reviewExam(Integer id) {
-        logger.info("Perform database query to find exam by id");
+        logger.info("Perform database query to find exam by id #examid = "+id);
         Optional<Exam> optionalExam = this.findById(id);
         if (!optionalExam.isPresent()) {
-            throw new IllegalArgumentException("Exam id doesn't exist!");
+            throw new IllegalArgumentException("Exam id doesn't exist! #examid = "+id);
         }
         Exam exam = optionalExam.get();
         List<Question> questions = this.questionService.getAllByExam(exam.getId());

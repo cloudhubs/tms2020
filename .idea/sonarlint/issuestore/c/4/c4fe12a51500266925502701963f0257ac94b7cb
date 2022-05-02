@@ -1,0 +1,6 @@
+
+ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 59 to the 15 allowed.(šÐ´±øÿÿÿÿ
+Rjavascript:S1854b"1Remove this useless assignment to variable "url".(šã„Šûÿÿÿÿ
+Rjavascript:S1117Ž"0'saveAs' is already declared in the upper scope.(Äû‘Öùÿÿÿÿ
+7javascript:S1186ž"Unexpected empty function.(ŠŸý–
+;javascript:S2990°"Remove the use of "this".(ÂöŸýÿÿÿÿÿ

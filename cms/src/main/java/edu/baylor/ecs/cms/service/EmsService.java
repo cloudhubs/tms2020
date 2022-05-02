@@ -33,7 +33,7 @@ public class EmsService {
 //        }
 //        examDto.setIssuer(umsService.getCurrentLoggedInUser());
         String uri = ip + examContext;
-        logger.info("Rest API called for creaing new exam");
+        logger.info("Rest API called for creaing new exam #uri = "+uri);
         Object obj = this.restTemplate.postForObject(uri, examDto, ExamDto.class);
         logger.info("Returning success notification");
         return ResponseEntity.ok(obj);

@@ -1,0 +1,20 @@
+
+S
+java:S1854R"8Remove this useless assignment to local variable "exam".(„‰–œÿÿÿÿÿ
+M
+java:S1135t"2Complete the task associated to this TODO comment.(š­û†üÿÿÿÿ
+i
+java:S3776¼"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(’ùáî
+t
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü•´úÿÿÿÿ
+k
+java:S1192("UDefine a constant instead of duplicating this literal "returning the result" 5 times.(‹·í¬
+—
+java:S1192I"uDefine a constant instead of duplicating this literal "Perform database query to find exam by id #examid = " 4 times.(÷î§ñıÿÿÿÿ8ÏÿÆ¿„0
+p
+java:S1192T"UDefine a constant instead of duplicating this literal "Returning the result" 3 times.(Üƒ–ÿÿÿÿÿ
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€€ŸÒøÿÿÿÿ
+y
+java:S4165"bRemove this useless assignment; "exam" already holds the assigned value along all execution paths.(ÉéÌš
+y
+java:S4165Ÿ"bRemove this useless assignment; "exam" already holds the assigned value along all execution paths.(Ö£¾©

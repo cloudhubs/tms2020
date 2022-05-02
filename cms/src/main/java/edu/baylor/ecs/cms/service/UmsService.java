@@ -27,8 +27,6 @@ public class UmsService {
     private String email;
 
     public UmsService(RestTemplateBuilder restTemplateBuilder) {
-
-        logger.info(Thread.currentThread().getId() + ":" + "UmsService" + "(" + restTemplateBuilder + ")");
         this.restTemplate = restTemplateBuilder.build();
     }
 
@@ -44,7 +42,7 @@ public class UmsService {
 //    }
 
     public ResponseEntity<EmailDto> isEmailValid(String email, String auth) {
-        logger.info("Service called to check the validity of email");
+        logger.info("Service called to check the validity of email #email = "+email);
 
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append(umsIp);
@@ -56,7 +54,7 @@ public class UmsService {
         HttpHeaders headers = new HttpHeaders();
         headers.add("Authorization", auth);
         HttpEntity<String> request = new HttpEntity<String>(headers);
-        logger.info("Rest API called to find the email validity");
+        logger.info("Rest API called to find the email validity #email = "+email);
         ResponseEntity<String> re = restTemplate.exchange(umsIp + this.email + email, HttpMethod.GET, request, String.class);
         System.out.println(re.getBody());
         EmailDto emailDto = new EmailDto();

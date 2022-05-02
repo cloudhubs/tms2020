@@ -1,0 +1,23 @@
+
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(Ş•çûÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(ç³“ùıÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ñığÓ
+O	java:S106³"9Replace this use of System.out or System.err by a logger.(Ùîî
+T	java:S106µ"9Replace this use of System.out or System.err by a logger.(û³ŸÂşÿÿÿÿ
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(Á»¼
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(§“£¢
+O	java:S106¾"9Replace this use of System.out or System.err by a logger.(«åÈÕ
+O	java:S106Á"9Replace this use of System.out or System.err by a logger.(´·Éâ
+F
+java:S1144²"/Remove this unused private "printGroup" method.(—™ˆ˜
+_
+java:S1192"IDefine a constant instead of duplicating this literal "language" 4 times.(‡˜íj
+]
+java:S1192–"FDefine a constant instead of duplicating this literal "level" 3 times.(Ÿ³“–
+]
+java:S1192‹"FDefine a constant instead of duplicating this literal "count" 3 times.(Òú
+b
+java:S1192…"FDefine a constant instead of duplicating this literal "isNew" 4 times.(šıš€şÿÿÿÿ
+e
+java:S1192‰"IDefine a constant instead of duplicating this literal "category" 3 times.(—ĞÑûùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰±ÿ•ûÿÿÿÿ

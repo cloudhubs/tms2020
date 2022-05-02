@@ -1,4 +1,4 @@
-package edu.baylor.ems.controller;
+ package edu.baylor.ems.controller;
 
 import edu.baylor.ems.dto.ExamDto;
 import edu.baylor.ems.dto.ExamReviewDto;
@@ -43,7 +43,7 @@ public class ExamController {
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/status/{status}", method = RequestMethod.GET)
     public ResponseEntity<List<Exam>> getExamsByStatus(@PathVariable("status") String status) {
-        logger.info("HTTP request come for find exams based on status");
+        logger.info("HTTP request come for find exams based on status #status = "+status);
         List<Exam> exams = examService.findAllExamsByStatus(status);
         if (exams.isEmpty()) {
             return new ResponseEntity<>(HttpStatus.NO_CONTENT);
@@ -58,7 +58,7 @@ public class ExamController {
         logger.info("HTTP request come for create new exam");
         logger.info("Exam service called for create new exam");
         Exam exam = examService.saveExam(examDto);
-        logger.info("Email service called for sending exam notification");
+        logger.info("Email service called for sending exam notification #examid = "+exam.getId());
         emailService.sendExamAssignmentNotification(exam);
         return new ResponseEntity<>(exam, HttpStatus.CREATED);
     }
@@ -66,8 +66,8 @@ public class ExamController {
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/{id}", method = RequestMethod.DELETE, produces = "application/json; charset=UTF-8")
     public ResponseEntity<Integer> deleteExam(@PathVariable("id") Integer id) {
-        logger.info("HTTP request come for delete an exam");
-        logger.info("Service called for delete exam");
+        logger.info("HTTP request come for delete an exam #examid = "+id);
+        logger.info("Service called for delete exam #examid = "+id);
         examService.deleteExam(id);
         return new ResponseEntity<>(id, HttpStatus.OK);
     }
@@ -75,18 +75,18 @@ public class ExamController {
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/take/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<List<QuestionEmsDto>> takeExam(@PathVariable("id") Integer id) {
-        logger.info("HTTP request come for taking an exam");
+        logger.info("HTTP request come for taking an exam #examid = "+id);
         // check ID
-        logger.info("Service called for take exam");
+        logger.info("Service called for take exam #examid = "+id);
         return examService.takeExam(id);
     }
 
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/submit/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Exam> submitExam(@PathVariable("id") Integer id) {
-        logger.info("HTTP request come for submitting exam");
+        logger.info("HTTP request come for submitting exam #examid = "+id);
         // check ID
-        logger.info("service called for submit exam");
+        logger.info("service called for submit exam #examid = "+id);
         return examService.submitExam(id);
     }
 
@@ -95,27 +95,27 @@ public class ExamController {
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/finish/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Object> finishExam(@PathVariable("id") Integer id) {
-        logger.info("HTTP request come for finish exam");
+        logger.info("HTTP request come for finish exam #examid = "+id);
         // check ID
-        logger.info("service called for finish exam");
+        logger.info("service called for finish exam #examid = "+id);
         return examService.finishExam(id);
     }
 
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/get/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<Exam> getExam(@PathVariable("id") Integer id) {
-        logger.info("HTTP request come for get exam by id");
+        logger.info("HTTP request come for get exam by id #examid = "+id);
         // check ID
-        logger.info("service called for get exam");
+        logger.info("service called for get exam #examid = "+id);
         return new ResponseEntity<>(examService.findById(id).get(), HttpStatus.CREATED);
     }
 
     @CrossOrigin(origins = "*")
     @RequestMapping(value = "/review/{id}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity<ExamReviewDto> reviewExam(@PathVariable("id") Integer id) {
-        logger.info("HTTP request come for review exam");
+        logger.info("HTTP request come for review exam #examid = "+id);
         // check ID
-        logger.info("service called for review exam");
+        logger.info("service called for review exam #examid = "+id);
 
         ExamReviewDto review = examService.reviewExam(id);
         logger.info("Sending HTTP response");

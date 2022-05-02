@@ -1,0 +1,28 @@
+
+Tjavascript:S1481‘"2Remove the declaration of the unused 'x' variable.(œÔ“øÿÿÿÿ
+Qjavascript:S1854‘"/Remove this useless assignment to variable "x".(œÔ“øÿÿÿÿ
+<javascript:S1186“"Unexpected empty function.(ÁëîÎûÿÿÿÿ
+vjavascript:S3776§"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(À¸¢üÿÿÿÿ
+Tjavascript:S1481½"7Remove the declaration of the unused 'reflow' variable.(ß±çÂ
+Qjavascript:S1854½"4Remove this useless assignment to variable "reflow".(ß±çÂ
+\javascript:S107æ";Function has too many parameters (8). Maximum allowed is 7.(ïŞ¤ûúÿÿÿÿ
+vjavascript:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(ïŞ¤ûúÿÿÿÿ
+`javascript:S3358ğ"DExtract this nested ternary operation into an independent statement.(È¦É
+qjavascript:S3776¡	"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(‹›õà
+2javascript:S108Ú	"Empty block statement.(ŒœÁ·
+qjavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(Í´€†
+[javascript:S1121Š">Extract the assignment of "scope.isOpen" from this expression.(½Ùè
+njavascript:S4138ò"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ò´×çÿÿÿÿÿ
+njavascript:S4138ú"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ò´×çÿÿÿÿÿ
+\javascript:S1854À":Remove this useless assignment to variable "ctrlInstance".(®ñ³œøÿÿÿÿ
+vjavascript:S3776½"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¢ÎÓÂùÿÿÿÿ
+Vjavascript:S1135ù"4Complete the task associated to this "TODO" comment.(¥¦øıÿÿÿÿ
+wjavascript:S3776û"URefactor this function to reduce its Cognitive Complexity from 109 to the 15 allowed.(ÃÖÂùşÿÿÿÿ
+Vjavascript:S1135½"4Complete the task associated to this "TODO" comment.(¡¼¼úÿÿÿÿÿ
+ajavascript:S1134“"DTake the required action to fix the issue indicated by this comment.(—£Æ‡
+7javascript:S1186¢"Unexpected empty function.(Û‚ßæ
+fjavascript:S3358Œ"DExtract this nested ternary operation into an independent statement.(ÜƒÆØüÿÿÿÿ
+Jjavascript:S1117"-'elm' is already declared in the upper scope.(ä§½’
+Ljavascript:S1117"/'attrs' is already declared in the upper scope.(ä§½’
+qjavascript:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(í¶ †
+qjavascript:S3776„"TRefactor this function to reduce its Cognitive Complexity from 72 to the 15 allowed.(Í°ıï
