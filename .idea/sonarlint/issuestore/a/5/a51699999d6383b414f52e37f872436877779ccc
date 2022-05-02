@@ -1,427 +1,0 @@
-
-pjavascript:S3776%"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(ˆè²Ô
-Ljavascript:S1117‰"0'module' is already declared in the upper scope.(²şÙ!
-vjavascript:S3776°"TRefactor this function to reduce its Cognitive Complexity from 60 to the 15 allowed.(éàô™ÿÿÿÿÿ
-Mjavascript:S1117Ê"+'i' is already declared in the upper scope.(µçëºûÿÿÿÿ
-wjavascript:S3776ù"URefactor this function to reduce its Cognitive Complexity from 477 to the 15 allowed.(˜‰º¥şÿÿÿÿ
-?javascript:S1186û""Unexpected empty function 'Empty'.(™»ÈÜ
-`javascript:S1121­"CExtract the assignment of "supportsAccessors" from this expression.(Ó¿å‘
-ajavascript:S905Â"FExpected an assignment or function call and instead saw an expression.(ï± 
-Ijavascript:S1940ß"'Use the opposite operator (>=) instead.(ÛÈñúÿÿÿÿ
-Vjavascript:S1135š"4Complete the task associated to this "TODO" comment.(ÊÌøûÿÿÿÿ
-9javascript:S2814"'getter' is already defined.(£Şüğ
-9javascript:S2814"'setter' is already defined.(öÍ»·
-7javascript:S1186¾"Unexpected empty function.(ßï°û
-7javascript:S1186—"Unexpected empty function.(¥øç½
-Mjavascript:S1117š"0'freeze' is already declared in the upper scope.(İèí¦
-Vjavascript:S1135µ"4Complete the task associated to this "TODO" comment.(ÊÌøûÿÿÿÿ
-Vjavascript:S1481Î"4Remove the declaration of the unused 'key' variable.(‡Æ‰ûÿÿÿÿ
-Sjavascript:S1854Î"1Remove this useless assignment to variable "key".(‡Æ‰ûÿÿÿÿ
-Jjavascript:S1117Û".'keys' is already declared in the upper scope.(ÆÆûe
-Gjavascript:S1481”"%Remove unused function 'toPrimitive'.(Ç£“¢ıÿÿÿÿ
-qjavascript:S3776º"TRefactor this function to reduce its Cognitive Complexity from 80 to the 15 allowed.(íîÿº
-Zjavascript:S1121ÿ"8Extract the assignment of "sheets" from this expression.(Î‘±‰ùÿÿÿÿ
-<javascript:S1186â"Unexpected empty function.(ø×Á‘ÿÿÿÿÿ
-;javascript:S125†	"Remove this commented out code.(•“‡£
-Mjavascript:S1117
-"+'i' is already declared in the upper scope.(Æà‘‡ÿÿÿÿÿ
-qjavascript:S3776´
-"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(À û
-wjavascript:S3776ã
-"URefactor this function to reduce its Cognitive Complexity from 238 to the 15 allowed.(İÒØêùÿÿÿÿ
-@javascript:S2814İ"'location' is already defined.(Ïñ«ÿüÿÿÿÿ
-Tjavascript:S1121â"7Extract the assignment of "count" from this expression.(ÖÎƒê
-6javascript:S2814–"'key' is already defined.(òí†
-njavascript:S4138"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÁŒß´şÿÿÿÿ
-rjavascript:S3776™"URefactor this function to reduce its Cognitive Complexity from 203 to the 15 allowed.(Ã¾‹æ
-Pjavascript:S1117ş".'text' is already declared in the upper scope.(¡¨Éÿşÿÿÿÿ
-Kjavascript:S1117‰".'text' is already declared in the upper scope.(ˆ´ÔÖ
-˜javascript:S2681"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¼ìáµùÿÿÿÿ
-Mjavascript:S1117ª"+'e' is already declared in the upper scope.(¾ïÎÚùÿÿÿÿ
-Qjavascript:S1481Ş"4Remove the declaration of the unused 'dom' variable.(Åñ¹ï
-Njavascript:S1854Ş"1Remove this useless assignment to variable "dom".(Åñ¹ï
-Sjavascript:S1481ß"6Remove the declaration of the unused 'event' variable.(ò˜ÌÓ
-Pjavascript:S1854ß"3Remove this useless assignment to variable "event".(ò˜ÌÓ
-\javascript:S1481à":Remove the declaration of the unused 'useragent' variable.(Äˆ€ˆıÿÿÿÿ
-Yjavascript:S1854à"7Remove this useless assignment to variable "useragent".(Äˆ€ˆıÿÿÿÿ
-Njavascript:S1117ï"1'exports' is already declared in the upper scope.(ôç©ê
-qjavascript:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 80 to the 15 allowed.(ˆè²Ô
-;javascript:S2814Ò"'cmp' is already defined.(¯¦ÜËúÿÿÿÿ
-;javascript:S2814Ô"'cmp' is already defined.(”¼ìúÿÿÿÿ
-Pjavascript:S1481á"4Remove the declaration of the unused 'oop' variable.(…Š@
-Mjavascript:S1854á"1Remove this useless assignment to variable "oop".(…Š@
-vjavascript:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(Íø­Áıÿÿÿÿ
-wjavascript:S3776‹"URefactor this function to reduce its Cognitive Complexity from 162 to the 15 allowed.(¤ìÕÿÿÿÿÿ
-Sjavascript:S1117”"1'exports' is already declared in the upper scope.(¤ÂãÍÿÿÿÿÿ
-Hjavascript:S1117–"+'x' is already declared in the upper scope.(«ÛåĞ
-Mjavascript:S1117”"+'e' is already declared in the upper scope.(èâïÏøÿÿÿÿ
-qjavascript:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(ˆè²Ô
-;javascript:S2814Ì"'distance' is already defined.(‹úû‰
-qjavascript:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(®çá
-njavascript:S4138À"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÊÕÔ´şÿÿÿÿ
-njavascript:S4138Ğ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ˆ›Ñ–øÿÿÿÿ
-Qjavascript:S1481õ"4Remove the declaration of the unused 'old' variable.(ìùû
-Njavascript:S1854õ"1Remove this useless assignment to variable "old".(ìùû
-qjavascript:S3776»"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(§®Ğ
-qjavascript:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ˆè²Ô
-Pjavascript:S1481 "4Remove the declaration of the unused 'oop' variable.(…Š@
-Mjavascript:S1854 "1Remove this useless assignment to variable "oop".(…Š@
-qjavascript:S1226¤"OIntroduce a new variable or use its initial value before reassigning "exports".(ÉĞÅóøÿÿÿÿ
-qjavascript:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(°Ç®®
-hjavascript:S1121à"KExtract the assignment of "options.$moduleUrls[name]" from this expression.(Í«®³
-vjavascript:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(çªãÂøÿÿÿÿ
-Mjavascript:S1117å"0'module' is already declared in the upper scope.(¯²ÃÈ
-Mjavascript:S1117ú"0'module' is already declared in the upper scope.(™‡ÖĞ
-Mjavascript:S1117ş"0'onLoad' is already declared in the upper scope.(ÕÙÀ¦
-qjavascript:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(úêõ„
-ijavascript:S4138•"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(×ç¢Æ
-qjavascript:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 87 to the 15 allowed.(šÜÛ‘
-qjavascript:S1848Ğ"OEither remove this useless object instantiation of "DefaultHandlers" or use it.(òåÃÁúÿÿÿÿ
-qjavascript:S1848Ñ"TEither remove this useless object instantiation of "DefaultGutterHandler" or use it.(–êÈ
-qjavascript:S1848Ò"OEither remove this useless object instantiation of "DragdropHandler" or use it.(Â˜´Çşÿÿÿÿ
-;javascript:S125"Remove this commented out code.(¿¬æ
-vjavascript:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(œº×Ìüÿÿÿÿ
-qjavascript:S3776½"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(ˆè²Ô
-Ijavascript:S1125‡ "'Remove the unnecessary boolean literal.(çïÃÎùÿÿÿÿ
-Ijavascript:S1125‡ "'Remove the unnecessary boolean literal.(çïÃÎùÿÿÿÿ
-rjavascript:S3776¹ "URefactor this function to reduce its Cognitive Complexity from 160 to the 15 allowed.(ˆè²Ô
-]javascript:S1126ˆ!"AReplace this if-then-else statement by a single return statement.(’Ï²
-cjavascript:S1126’!"AReplace this if-then-else statement by a single return statement.(¥Šùÿÿÿÿ
-cjavascript:S1126œ!"AReplace this if-then-else statement by a single return statement.(â¢×ñıÿÿÿÿ
-ajavascript:S3358§!"DExtract this nested ternary operation into an independent statement.(Èíœ 
-;javascript:S2814Ô!"'end' is already defined.(¢¸ÍÁûÿÿÿÿ
-8javascript:S2814Ù!"'start' is already defined.(¥—±
-Xjavascript:S3800İ!"6Refactor this function to always return the same type.(ĞØ€Ëşÿÿÿÿ
-rjavascript:S3776µ""URefactor this function to reduce its Cognitive Complexity from 386 to the 15 allowed.(ˆè²Ô
-Sjavascript:S1121ş#"6Extract the assignment of "fold" from this expression.(»¸Íş
-Sjavascript:S1121$"6Extract the assignment of "fold" from this expression.(›Ëá…
-9javascript:S2814š$"'cursor' is already defined.(š¦™
-Ujavascript:S1854Ô$"3Remove this useless assignment to variable "match".(Ğ±­œüÿÿÿÿ
-Yjavascript:S1121Ô$"7Extract the assignment of "match" from this expression.(Ğ±­œüÿÿÿÿ
-Ujavascript:S1854à$"3Remove this useless assignment to variable "match".(Úöª³ùÿÿÿÿ
-Yjavascript:S1121à$"7Extract the assignment of "match" from this expression.(Úöª³ùÿÿÿÿ
-Sjavascript:S1121ë$"6Extract the assignment of "fold" from this expression.(ĞÌºĞ
-Ujavascript:S1854ù$"3Remove this useless assignment to variable "match".(›©ñ‹ùÿÿÿÿ
-Yjavascript:S1121ù$"7Extract the assignment of "match" from this expression.(›©ñ‹ùÿÿÿÿ
-Ujavascript:S1854…%"3Remove this useless assignment to variable "match".(¥»Ò¯ıÿÿÿÿ
-Yjavascript:S1121…%"7Extract the assignment of "match" from this expression.(¥»Ò¯ıÿÿÿÿ
-Ujavascript:S1854“%"3Remove this useless assignment to variable "match".(Úöª³ùÿÿÿÿ
-Yjavascript:S1121“%"7Extract the assignment of "match" from this expression.(Úöª³ùÿÿÿÿ
-Qjavascript:S1121–%"4Extract the assignment of "ch" from this expression.(ÁŠÃÎ
-Vjavascript:S1121›%"4Extract the assignment of "ch" from this expression.(’áéÃüÿÿÿÿ
-Qjavascript:S1121£%"4Extract the assignment of "ch" from this expression.(ÁŠÃÎ
-Sjavascript:S1121Ñ%"6Extract the assignment of "fold" from this expression.(èÔØæ
-<javascript:S2814Î&"'data' is already defined.(ºÿÉæüÿÿÿÿ
-vjavascript:S3776ş&"TRefactor this function to reduce its Cognitive Complexity from 78 to the 15 allowed.(ıì¥ëùÿÿÿÿ
-Pjavascript:S1117Ç'".'rule' is already declared in the upper scope.(á·¶¤üÿÿÿÿ
-rjavascript:S3776Ï'"URefactor this function to reduce its Cognitive Complexity from 245 to the 15 allowed.(ˆè²Ô
-vjavascript:S1488ø'"YImmediately return this expression instead of assigning it to the temporary variable "r".(Œıä
-8javascript:S2814¬("'stack' is already defined.(ì·°Õ
-njavascript:S4138ü("LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Íèô¿üÿÿÿÿ
-9javascript:S2814ü("'i' is already defined.(Íèô¿üÿÿÿÿ
-Xjavascript:S1121‘)";Extract the assignment of "lastIndex" from this expression.(•ü¥²
-rjavascript:S3776À)"URefactor this function to reduce its Cognitive Complexity from 232 to the 15 allowed.(ˆè²Ô
-;javascript:S2814È)"'key' is already defined.(ğ»°ûÿÿÿÿ
-hjavascript:S4138Ê)"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¥ºá^
-njavascript:S4138î)"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(—Ë†¾ùÿÿÿÿ
-9javascript:S2814î)"'i' is already defined.(—Ë†¾ùÿÿÿÿ
-:javascript:S2310Ç*"Remove this assignment of "i".(¨…ÄK
-qjavascript:S3776ú*"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(ˆè²Ô
-wjavascript:S128ş*"VEnd this switch case with an unconditional break, continue, return or throw statement.(¾ÎÈÑşÿÿÿÿ
-Bjavascript:S2814˜+" 'behaviours' is already defined.(ÔĞ°¸øÿÿÿÿ
-ijavascript:S4138¢+"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ö“€¥
-qjavascript:S3776ï+"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ˆè²Ô
-rjavascript:S3776À,"URefactor this function to reduce its Cognitive Complexity from 446 to the 15 allowed.(ˆè²Ô
-Ujavascript:S1121÷,"3Extract the assignment of "m" from this expression.(éÏÇşÿÿÿÿÿ
-Ujavascript:S1121ù,"3Extract the assignment of "m" from this expression.(¶â¯±úÿÿÿÿ
-njavascript:S4138-"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(áÍã×ùÿÿÿÿ
->javascript:S2814ˆ-"!'regexpStart' is already defined.(ô€ìÀ
-Cjavascript:S2814‰-"&'lineCommentStart' is already defined.(ì•ÖÄ
-Cjavascript:S2814‹-"!'regexpStart' is already defined.(¾ó¬Ùüÿÿÿÿ
-Hjavascript:S2814Œ-"&'lineCommentStart' is already defined.(ê÷è¯øÿÿÿÿ
-<javascript:S2814’-"'uncomment' is already defined.(Û¨ÕÜ
-9javascript:S2814›-"'comment' is already defined.(…©æi
-Bjavascript:S2814£-" 'testRemove' is already defined.(²¾—Úÿÿÿÿÿ
->javascript:S2814­-"'spaces' is already defined.(Á¼äüÿÿÿÿ
-.javascript:S1763´-"Unreachable code.(§¼Éç
-Vjavascript:S1481á-"4Remove the declaration of the unused 'sel' variable.(·ææöşÿÿÿÿ
-Sjavascript:S1854á-"1Remove this useless assignment to variable "sel".(·ææöşÿÿÿÿ
-;javascript:S2814ò-"'iterator' is already defined.(áÙÂŒ
-8javascript:S2814ó-"'token' is already defined.(îªö‰
-9javascript:S2814õ-"'i' is already defined.(¿¹øÏøÿÿÿÿ
-5javascript:S2814÷-"'row' is already defined.(½‡0
-9javascript:S2814ø-"'column' is already defined.(ïĞÅ—
-<javascript:S1186š."Unexpected empty function.(«³„Şøÿÿÿÿ
-ijavascript:S4138²."LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÓÁƒ›
-4javascript:S2814²."'i' is already defined.(ÓÁƒ›
-ijavascript:S4138Á."LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Âæ¬¬
-<javascript:S2814ë."'rule' is already defined.(ğÑî¨ùÿÿÿÿ
-Cjavascript:S2310ë."!Remove this assignment of "rule".(ğÑî¨ùÿÿÿÿ
-`javascript:S1121ü."CExtract the assignment of "this.$keywordList" from this expression.(¢ı‡
-Hjavascript:S3696–/"&Expected an error object to be thrown.(Ò“ûÿÿÿÿ
-vjavascript:S3776/"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÉİÔæùÿÿÿÿ
-Ijavascript:S1481/"'Remove unused function 'validateDelta'.(ÉİÔæùÿÿÿÿ
-qjavascript:S3776±/"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Å“ œ
-qjavascript:S3776â/"TRefactor this function to reduce its Cognitive Complexity from 87 to the 15 allowed.(ˆè²Ô
-rjavascript:S3776ã0"URefactor this function to reduce its Cognitive Complexity from 214 to the 15 allowed.(ˆè²Ô
-ƒjavascript:S4165€2"fReview this redundant assignment: "column" already holds the assigned value along all execution paths.(¸ÎñÚ
-njavascript:S4138â2"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÎÓèüÿÿÿÿ
-Ujavascript:S1121‹3"8Extract the assignment of "column" from this expression.(‚ñúŸ
-qjavascript:S3776¹3"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(‡¯Ó
-qjavascript:S3776ä3"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(ˆè²Ô
-^javascript:S1121»4"AExtract the assignment of "this.lines[row]" from this expression.(‚åíŞ
-Pjavascript:S1481Ç4"4Remove the declaration of the unused 'oop' variable.(…Š@
-Mjavascript:S1854Ç4"1Remove this useless assignment to variable "oop".(…Š@
-qjavascript:S3776Ğ4"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ˆè²Ô
-rjavascript:S37765"URefactor this function to reduce its Cognitive Complexity from 142 to the 15 allowed.(ˆè²Ô
-ijavascript:S4138Å5"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨£½·
-ijavascript:S4138Û5"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Õƒ¼®
-ijavascript:S4138¡6"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨£½·
-ijavascript:S4138µ6"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Õƒ¼®
-rjavascript:S3776Û6"URefactor this function to reduce its Cognitive Complexity from 230 to the 15 allowed.(ˆè²Ô
-:javascript:S2310©7"Remove this assignment of "i".(¨…ÄK
-6javascript:S2814í7"'end' is already defined.(ï…é‹
-=javascript:S2814î7"'start' is already defined.(¿Ôêÿÿÿÿÿ
-7javascript:S108ÿ7"Empty block statement.(µ’ˆ‚ûÿÿÿÿ
-9javascript:S2814”8"'r' is already defined.(§„ƒóÿÿÿÿÿ
-Xjavascript:S1481£8"6Remove the declaration of the unused 'Range' variable.(Ùë¸òúÿÿÿÿ
-Ujavascript:S1854£8"3Remove this useless assignment to variable "Range".(Ùë¸òúÿÿÿÿ
-qjavascript:S3776³8"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(ˆè²Ô
-;javascript:S2814Ü8"'row' is already defined.(ªÈ‘’ûÿÿÿÿ
->javascript:S2814Ü8"'column' is already defined.(ªÈ‘’ûÿÿÿÿ
-;javascript:S2814İ8"'cmp' is already defined.(à«è°úÿÿÿÿ
-[javascript:S1481â8"9Remove the declaration of the unused 'afterEnd' variable.(‹ğúùıÿÿÿÿ
-Xjavascript:S1854â8"6Remove this useless assignment to variable "afterEnd".(‹ğúùıÿÿÿÿ
-`javascript:S1481ç8">Remove the declaration of the unused 'consumedFolds' variable.(‚¾«îùÿÿÿÿ
-]javascript:S1854ç8";Remove this useless assignment to variable "consumedFolds".(‚¾«îùÿÿÿÿ
-wjavascript:S37769"URefactor this function to reduce its Cognitive Complexity from 832 to the 15 allowed.(ÇúäÑûÿÿÿÿ
-ijavascript:S4138—9"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨£½·
-kjavascript:S1871œ9"NThis branch's code block is the same as the block for the branch on line 7322.(ÙõĞõ
-ijavascript:S4138¬9"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¶›â®
-njavascript:S4138¶9"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÄÕ×Üÿÿÿÿÿ
-7javascript:S2814Ñ9"'folds' is already defined.(§Ù‚:
-ijavascript:S4138Ù9"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ñ®Ã
-hjavascript:S4138Ú9"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ïúów
-njavascript:S4138è9"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(×»éğıÿÿÿÿ
-njavascript:S4138¤:"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(´â½»ùÿÿÿÿ
-ijavascript:S4138¼;"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(¨£½·
-Yjavascript:S1121Ã<"<Extract the assignment of "bracketPos" from this expression.(ÏÚí›
-^javascript:S1121Ë<"<Extract the assignment of "bracketPos" from this expression.(ÊÚÅªıÿÿÿÿ
-Bjavascript:S2310¥=" Remove this assignment of "row".(üÍ’ùÿÿÿÿ
-rjavascript:S3776ï>"URefactor this function to reduce its Cognitive Complexity from 203 to the 15 allowed.(ÊÀ·
-Bjavascript:S2814›?" 'bracketPos' is already defined.(¿©Ä˜øÿÿÿÿ
-“javascript:S2681½?"vThis line will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(¾åÉó
-sjavascript:S3776Ç@"VRefactor this function to reduce its Cognitive Complexity from 1727 to the 15 allowed.(ˆè²Ô
-njavascript:S4138¼A"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(áÍã×ùÿÿÿÿ
-Ajavascript:S1186ûA"Unexpected empty method 'undo'.(—ÅûÂøÿÿÿÿ
-<javascript:S1186üA"Unexpected empty method 'redo'.(Õ„–
-Bjavascript:S1186ıA" Unexpected empty method 'reset'.(¨€Òêúÿÿÿÿ
-njavascript:S4138²B"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(—áÄıÿÿÿÿ
-:javascript:S2814°C"'re' is already defined.(óÄ©Óûÿÿÿÿ
-:javascript:S2814²C"'re' is already defined.(òÄ•ƒÿÿÿÿÿ
-cjavascript:S1121éD"FExtract the assignment of "this.lineWidgetWidth" from this expression.(“ÿ²“
-_javascript:S1121ñD"BExtract the assignment of "this.screenWidth" from this expression.(ü×°Ş
-;javascript:S2310ıD"Remove this assignment of "i".(‰Åü©
-pjavascript:S888¨E"OReplace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.(›èôûÿÿÿÿ
-njavascript:S4138ÁE"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÎÓèüÿÿÿÿ
-Ljavascript:S1117ÕE"/'delta' is already declared in the upper scope.(¤Ó˜®
-ajavascript:S1854ŞE"?Remove this useless assignment to variable "lastDeltaIsInsert".(¡è‚Ãûÿÿÿÿ
-ajavascript:S1854áE"?Remove this useless assignment to variable "lastDeltaIsInsert".(ëê£­şÿÿÿÿ
-“javascript:S4165áE"qReview this redundant assignment: "lastDeltaIsInsert" already holds the assigned value along all execution paths.(ëê£­şÿÿÿÿ
-ajavascript:S1854ïE"?Remove this useless assignment to variable "lastDeltaIsInsert".(¡è‚Ãûÿÿÿÿ
-ajavascript:S1854õE"?Remove this useless assignment to variable "lastDeltaIsInsert".(ëê£­şÿÿÿÿ
-?javascript:S2814¤F"'rowDiff' is already defined.(‹–Ìÿÿÿÿÿ
-@javascript:S2814¥F"'collDiff' is already defined.(•íÿüÿÿÿÿ
-6javascript:S2814ÙF"'row' is already defined.(¾÷ş
-7javascript:S2814ÛF"'diff' is already defined.(©ƒƒ¡
-7javascript:S2814ßF"'diff' is already defined.(ÿæĞÙ
-@javascript:S2814H"'foldLine' is already defined.(ä•àüÿÿÿÿ
-Ajavascript:S2814©H"'foldLines' is already defined.(Ÿ¡æ§ûÿÿÿÿ
-;javascript:S2814ªH"'foldLine' is already defined.(˜™¤
-;javascript:S2814«H"'idx' is already defined.(ÀÚ×ùÿÿÿÿ
-@javascript:S2814½H"'foldLine' is already defined.(ä•àüÿÿÿÿ
-;javascript:S2814ËH"'foldLine' is already defined.(˜™¤
-Jjavascript:S1117õH"-'row' is already declared in the upper scope.(†¥à‘
-njavascript:S4138¬I"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(áÍã×ùÿÿÿÿ
-kjavascript:S888×I"OReplace '!=' operator with one of '<=', '>=', '<', or '>' comparison operators.(¬ä‹Ö
-6javascript:S2814ˆK"'row' is already defined.(èµÀ
->javascript:S2814‰K"'docRow' is already defined.(ÔÙÓ‘ÿÿÿÿÿ
-?javascript:S2814ŒK"'doCache' is already defined.(©‹¸üşÿÿÿÿ
-6javascript:S2814ãK"'row' is already defined.(èµÀ
-Ajavascript:S2814äK"'screenRow' is already defined.(ÿå®Œùÿÿÿÿ
-?javascript:S2814çK"'doCache' is already defined.(©‹¸üşÿÿÿÿ
-njavascript:S4138ªL"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(´â½»ùÿÿÿÿ
-4javascript:S2814°L"'i' is already defined.(ÖÃáù
-<javascript:S2814±L"'fold' is already defined.(Óßï½úÿÿÿÿ
-qjavascript:S3776’M"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.( Èü‡
-qjavascript:S3776§M"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(±ÅŞ¢
-vjavascript:S3776´M"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜Â×ºüÿÿÿÿ
-rjavascript:S3776üM"URefactor this function to reduce its Cognitive Complexity from 483 to the 15 allowed.(ˆè²Ô
-Djavascript:S1125“N"'Remove the unnecessary boolean literal.(ë™âî
-]javascript:S1119°N";Refactor the code to remove this label and the need for it.(Ç—òÉúÿÿÿÿ
-]javascript:S1121¿N";Extract the assignment of "prevRange" from this expression.(ÿÛÖ”ûÿÿÿÿ
-Bjavascript:S2310ÃN" Remove this assignment of "row".(™ĞŸ¢üÿÿÿÿ
-njavascript:S4138ÈN"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÏÑüüÿÿÿÿ
-9javascript:S2814ÈN"'j' is already defined.(ÏÑüüÿÿÿÿ
-4javascript:S2814ÒN"'i' is already defined.(èª
-4javascript:S2814ÒN"'j' is already defined.(èª
-Sjavascript:S3800€O"6Refactor this function to always return the same type.(˜‡ß¹
-Ejavascript:S2814ŸO"#'matchIterator' is already defined.(Üƒàıûÿÿÿÿ
-Ejavascript:S2814¦O"#'matchIterator' is already defined.(Üƒàıûÿÿÿÿ
-ijavascript:S4138¨O"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(œâ‡
-^javascript:S1121ºO"<Extract the assignment of "options.re" from this expression.(ßşÌÚÿÿÿÿÿ
-^javascript:S1121¿O"<Extract the assignment of "options.re" from this expression.(Ô‡üªøÿÿÿÿ
-^javascript:S1121ËO"<Extract the assignment of "options.re" from this expression.(¾Í¯üÿÿÿÿ
-Yjavascript:S1121ÒO"<Extract the assignment of "options.re" from this expression.(È¦ÓĞ
-njavascript:S4138ØO"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(±ºŸÔüÿÿÿÿ
-Djavascript:S1125çO"'Remove the unnecessary boolean literal.(Ÿ¾ÓÄ
-Djavascript:S1125èO"'Remove the unnecessary boolean literal.(’Ê Õ
-ajavascript:S3358íO"DExtract this nested ternary operation into an independent statement.(Äè‡‹
-Djavascript:S1125€P"'Remove the unnecessary boolean literal.(Ğú—ò
-Djavascript:S1125‘P"'Remove the unnecessary boolean literal.(Ğú—ò
-rjavascript:S3776·P"URefactor this function to reduce its Cognitive Complexity from 332 to the 15 allowed.(ˆè²Ô
-Njavascript:S1117éP"1'keyPart' is already declared in the upper scope.(êáâø
-Njavascript:S1117êP"1'binding' is already declared in the upper scope.(ù³ó¶
-Ijavascript:S1117ëP",'id' is already declared in the upper scope.(ÊµöÔ
-Xjavascript:S3800¾Q"6Refactor this function to always return the same type.(›”Œûüÿÿÿÿ
-rjavascript:S3776R"URefactor this function to reduce its Cognitive Complexity from 139 to the 15 allowed.(ˆè²Ô
-\javascript:S1121¸R"@Extract the assignment of "this.recording" from this expression.(†®¹
-]javascript:S1121ÃR"@Extract the assignment of "this.recording" from this expression.(³éñ¸
-Rjavascript:S1117øR"0'module' is already declared in the upper scope.(çáşøÿÿÿÿ
-Rjavascript:S1117‚S"0'module' is already declared in the upper scope.(¼×ê†üÿÿÿÿ
-Rjavascript:S1117ŒS"0'module' is already declared in the upper scope.(¼×ê†üÿÿÿÿ
-<javascript:S1186íU"Unexpected empty method 'exec'.(‹½Òµ
-<javascript:S1186òU"Unexpected empty method 'exec'.(±õÂ–
-qjavascript:S3776ÔW"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(±õÂ–
-qjavascript:S3776ùW"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(±õÂ–
-ijavascript:S4138•X"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(°À°õ
-4javascript:S2814•X"'i' is already defined.(°À°õ
-qjavascript:S3776´X"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿ†Ğî
-mjavascript:S1848¾X"KEither remove this useless object instantiation of "FoldHandler" or use it.(øºË¢ÿÿÿÿÿ
-sjavascript:S3776ÙX"VRefactor this function to reduce its Cognitive Complexity from 1748 to the 15 allowed.(ˆè²Ô
-@javascript:S1481ŞX"Remove unused function 'last'.(¨ıâãşÿÿÿÿ
-^javascript:S1121‹Y"<Extract the assignment of "this.curOp" from this expression.(ñ•…áùÿÿÿÿ
-wjavascript:S128“Y"VEnd this switch case with an unconditional break, continue, return or throw statement.(‡°ï¦ÿÿÿÿÿ
-Mjavascript:S1117Y"0'config' is already declared in the upper scope.(…ú£±
-Rjavascript:S1117ÕY"0'module' is already declared in the upper scope.(ìÄÉñùÿÿÿÿ
-8javascript:S2814["'range' is already defined.(´ß²
-Djavascript:S1940´\"'Use the opposite operator (<=) instead.(Ì·‹ñ
-vjavascript:S1488ò\"ZImmediately return this expression instead of assigning it to the temporary variable "re".(ÿ¥³!
-7javascript:S2814è]"'range' is already defined.(Â§éc
-7javascript:S2814ø]"'line' is already defined.(‹ƒëØ
-Qjavascript:S1481ú]"4Remove the declaration of the unused 'end' variable.(‰¡º
-Njavascript:S1854ú]"1Remove this useless assignment to variable "end".(‰¡º
-7javascript:S2814Œ`"'rows' is already defined.(Ø´»ƒ
-8javascript:S2814›`"'count' is already defined.(Ì—×Û
-€javascript:S1488Ø`"^Immediately return this expression instead of assigning it to the temporary variable "number".(‹Ï™¯ıÿÿÿÿ
-;javascript:S2310Àa"Remove this assignment of "i".(«Ì–’
-ljavascript:S1871Æa"OThis branch's code block is the same as the block for the branch on line 12484.(›ûä·
-:javascript:S2310Éa"Remove this assignment of "i".(¨…ÄK
-Mjavascript:S1117ÿa"0'config' is already declared in the upper scope.(…ú£±
-Rjavascript:S1117Ôe"0'config' is already declared in the upper scope.(¨ÁÛÿüÿÿÿÿ
-Rjavascript:S1117çe"0'enable' is already declared in the upper scope.(Úã´ÿÿÿÿÿ
-qjavascript:S3776Úf"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(ˆè²Ô
-rjavascript:S3776Õg"URefactor this function to reduce its Cognitive Complexity from 375 to the 15 allowed.(ˆè²Ô
-njavascript:S4138ïg"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(“ÚĞüÿÿÿÿ
-2javascript:S108‹h"Empty block statement.(×ò·¼
-Ajavascript:S2814Øh"'className' is already defined.(œ¥­õüÿÿÿÿ
->javascript:S2814àh"'height' is already defined.(À‹°İøÿÿÿÿ
-rjavascript:S3776Èi"URefactor this function to reduce its Cognitive Complexity from 192 to the 15 allowed.(ˆè²Ô
-8javascript:S2814Øi"'config' is already defined.(†«Ë%
-fjavascript:S3358–j"DExtract this nested ternary operation into an independent statement.(Û¸¦œøÿÿÿÿ
-\javascript:S1481új":Remove the declaration of the unused 'useragent' variable.(Äˆ€ˆıÿÿÿÿ
-Yjavascript:S1854új"7Remove this useless assignment to variable "useragent".(Äˆ€ˆıÿÿÿÿ
-rjavascript:S3776„k"URefactor this function to reduce its Cognitive Complexity from 760 to the 15 allowed.(ˆè²Ô
-ijavascript:S1121³k"LExtract the assignment of "this.$pollSizeChangesTimer" from this expression.(Şİ¿à
-Djavascript:S2814êk""'spaceContent' is already defined.(Ì’Å¡ıÿÿÿÿ
-=javascript:S2814ëk" 'tabContent' is already defined.(Æ®Ş
-=javascript:S2310‡l" Remove this assignment of "row".(ó½°‰
-;javascript:S2814l"'row' is already defined.(í©ÕÆúÿÿÿÿ
-@javascript:S2814l"'foldLine' is already defined.(¹‡á÷şÿÿÿÿ
-6javascript:S2814·l"'row' is already defined.(¥Ùş¹
-@javascript:S2814Ãl"'fragment' is already defined.(ğ§¸­şÿÿÿÿ
-Wjavascript:S1854èm":Remove this useless assignment to variable "screenColumn".(¢¨»µ
-Ijavascript:S1125•n"'Remove the unnecessary boolean literal.(ÕÌö·úÿÿÿÿ
->javascript:S2814›n"'tokens' is already defined.(éûÇœüÿÿÿÿ
-Rjavascript:S1117Án"0'tokens' is already declared in the upper scope.(ŠïÃ„ùÿÿÿÿ
-8javascript:S2814Ùn"'value' is already defined.(éúö 
-Ijavascript:S1117çn"-'row' is already declared in the upper scope.(¿Ã›u
-rjavascript:S3776¥o"URefactor this function to reduce its Cognitive Complexity from 182 to the 15 allowed.(ˆè²Ô
-4javascript:S2814©p"'i' is already defined.(ú÷Çº
-~javascript:S4165©p"aReview this redundant assignment: "i" already holds the assigned value along all execution paths.(ú÷Çº
-qjavascript:S3776†q"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ˆè²Ô
-qjavascript:S3776®q"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ˆè²Ô
-qjavascript:S3776ãq"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ˆè²Ô
-qjavascript:S3776œr"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(ˆè²Ô
-ijavascript:S1121Ïr"LExtract the assignment of "this.$pollSizeChangesTimer" from this expression.(–ÛÒ–
-7javascript:S2814êr"'size' is already defined.(Ùèğ
-Zjavascript:S1516œs"=Multiline support is limited to browsers supporting ES5 only.(¾Œ¼Â
-qjavascript:S3776”v"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ßèïŠ
-sjavascript:S3776€w"VRefactor this function to reduce its Cognitive Complexity from 1073 to the 15 allowed.(ˆè²Ô
-[javascript:S1121üw"?Extract the assignment of "this.resizing" from this expression.(¥Š£p
-Mjavascript:S1117´y"0'config' is already declared in the upper scope.(ÉüŸı
-Mjavascript:S1117×y"0'config' is already declared in the upper scope.(ÉüŸı
-Mjavascript:S1117³z"0'config' is already declared in the upper scope.(ÉüŸı
-~javascript:S4165}"aReview this redundant assignment: "i" already holds the assigned value along all execution paths.(ğ¢²
-Mjavascript:S1117³~"0'module' is already declared in the upper scope.(‘¯«—
-ajavascript:S3358Â~"DExtract this nested ternary operation into an independent statement.(€–ìÛ
-vjavascript:S3776©"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ºè£Âúÿÿÿÿ
-rjavascript:S3776ƒ€"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(àù›õ
-rjavascript:S3776±€"TRefactor this function to reduce its Cognitive Complexity from 95 to the 15 allowed.(ˆè²Ô
-wjavascript:S3776 "TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ç¤ˆáûÿÿÿÿ
-=javascript:S1186­"Unexpected empty function.(ñšÒ³ÿÿÿÿÿ
-sjavascript:S3776ù"URefactor this function to reduce its Cognitive Complexity from 181 to the 15 allowed.(ˆè²Ô
-ojavascript:S4138Ÿ‚"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(”¿»‰şÿÿÿÿ
-:javascript:S2814¼‚"'i' is already defined.(Á„ªÂüÿÿÿÿ
-;javascript:S2814½‚"'otherPos' is already defined.(À¸a
-:javascript:S2814¾‚"'newPos' is already defined.(ùğ»´
-sjavascript:S3776‰ƒ"URefactor this function to reduce its Cognitive Complexity from 224 to the 15 allowed.(‰şëı
-Njavascript:S1117ªƒ"+'e' is already declared in the upper scope.(‘„Éàùÿÿÿÿ
-Njavascript:S1117ôƒ"0'cursor' is already declared in the upper scope.(¨Ü…
-Njavascript:S1117–„"+'e' is already declared in the upper scope.(¨œ®øÿÿÿÿ
-ojavascript:S4138 „"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ìÆì¼ıÿÿÿÿ
-sjavascript:S3776…"URefactor this function to reduce its Cognitive Complexity from 322 to the 15 allowed.(ˆè²Ô
->javascript:S2814’†"'range' is already defined.(áÆÔøÿÿÿÿ
-9javascript:S2814š†"'start' is already defined.(´İÏõ
-7javascript:S2814š†"'end' is already defined.(´İÏõ
-Djavascript:S2814È†"!'startColumn' is already defined.(îÇœùÿÿÿÿ
-=javascript:S2814É†"'endColumn' is already defined.(·¹§‹
-Ajavascript:S2814Ñ†"'startRow' is already defined.(ÇıÚÑüÿÿÿÿ
-?javascript:S2814Ò†"'endRow' is already defined.(ÌŞÒãşÿÿÿÿ
-sjavascript:S3776‡"URefactor this function to reduce its Cognitive Complexity from 713 to the 15 allowed.(ˆè²Ô
-Ejavascript:S1125é‡"'Remove the unnecessary boolean literal.(®±æ‚
-ijavascript:S4138Ÿˆ"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(àƒÌ
-bjavascript:S3358²ˆ"DExtract this nested ternary operation into an independent statement.(¾Üïş
-?javascript:S2814åˆ"'anchor' is already defined.(§Ûÿÿÿÿÿ
-Ajavascript:S2814ìˆ"'newRange' is already defined.(¥ü¡úüÿÿÿÿ
-5javascript:S2814‰"'i' is already defined.(†ıàâ
-9javascript:S2814‰"'range' is already defined.(æƒ£á
-5javascript:S2814˜‰"'i' is already defined.(†ıàâ
-9javascript:S2814™‰"'range' is already defined.(æƒ£á
-<javascript:S2814š‰"'tmp' is already defined.(Ø•§¸ûÿÿÿÿ
-Ljavascript:S1117ç‰".'line' is already declared in the upper scope.(ğÙ’ó
-bjavascript:S3358£Š"DExtract this nested ternary operation into an independent statement.(Ø†õ
-bjavascript:S3358£Š"DExtract this nested ternary operation into an independent statement.(Ø†õ
-Sjavascript:S930°Š"6This function expects 1 argument, but 2 were provided.(Ğú®™
-wjavascript:S3776¿Š"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ØĞ®âşÿÿÿÿ
-wjavascript:S3776õŠ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(û ÔÚıÿÿÿÿ
-7javascript:S1186°‹"Unexpected empty function.(éĞÏD
-rjavascript:S3776²‹"TRefactor this function to reduce its Cognitive Complexity from 93 to the 15 allowed.(ˆè²Ô
-Zjavascript:S1516‰Œ"=Multiline support is limited to browsers supporting ES5 only.(½€÷5
-Qjavascript:S1481‰"4Remove the declaration of the unused 'oop' variable.(…Š@
-Njavascript:S1854‰"1Remove this useless assignment to variable "oop".(…Š@
-Yjavascript:S1481‹"6Remove the declaration of the unused 'Range' variable.(¤ªëïøÿÿÿÿ
-Vjavascript:S1854‹"3Remove this useless assignment to variable "Range".(¤ªëïøÿÿÿÿ
-sjavascript:S3776"URefactor this function to reduce its Cognitive Complexity from 577 to the 15 allowed.(ˆè²Ô
-3javascript:S108ı"Empty block statement.(×ò·¼
-jjavascript:S4138Š"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ñ†€
-rjavascript:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(È®ë™
-wjavascript:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 80 to the 15 allowed.(Ãá ºùÿÿÿÿ
-Vjavascript:S1121‘"3Extract the assignment of "i" from this expression.(ÕùôÔûÿÿÿÿ
-Vjavascript:S1121œ"3Extract the assignment of "i" from this expression.(ÕùôÔûÿÿÿÿ
-rjavascript:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(Š¢—À
-Ijavascript:S1117ª"+'w' is already declared in the upper scope.(á”
-[javascript:S1516û"=Multiline support is limited to browsers supporting ES5 only.(À­š¹
-rjavascript:S3776¶‘"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(äªƒŞ
-qjavascript:S3776é‘"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(“ŞöK
-ujavascript:S3973í‘"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ë…ù

@@ -1,217 +1,0 @@
-
-7javascript:S1116"Unnecessary semicolon.(­¿åşÿÿÿÿ
-ujavascript:S3776"TRefactor this function to reduce its Cognitive Complexity from 69 to the 15 allowed.(­¿åşÿÿÿÿ
-7javascript:S1186§"Unexpected empty function.(ØàÛ—
-rjavascript:S3776‰"URefactor this function to reduce its Cognitive Complexity from 104 to the 15 allowed.(ˆè²Ô
-]javascript:S1126Ø"AReplace this if-then-else statement by a single return statement.(’Ï²
-cjavascript:S1126â"AReplace this if-then-else statement by a single return statement.(¥Šùÿÿÿÿ
-cjavascript:S1126ì"AReplace this if-then-else statement by a single return statement.(â¢×ñıÿÿÿÿ
-ajavascript:S3358÷"DExtract this nested ternary operation into an independent statement.(Èíœ 
-;javascript:S2814¤"'end' is already defined.(¢¸ÍÁûÿÿÿÿ
-8javascript:S2814©"'start' is already defined.(¥—±
-Xjavascript:S3800­"6Refactor this function to always return the same type.(ĞØ€Ëşÿÿÿÿ
-Hjavascript:S3696ì"&Expected an error object to be thrown.(Ò“ûÿÿÿÿ
-Ijavascript:S1481ô"'Remove unused function 'validateDelta'.(ÉİÔæùÿÿÿÿ
-njavascript:S4138Ä"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÊÕÔ´şÿÿÿÿ
-njavascript:S4138Ô"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ˆ›Ñ–øÿÿÿÿ
-Qjavascript:S1481ù"4Remove the declaration of the unused 'old' variable.(ìùû
-Njavascript:S1854ù"1Remove this useless assignment to variable "old".(ìùû
-qjavascript:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ˆè²Ô
-qjavascript:S3776·"TRefactor this function to reduce its Cognitive Complexity from 86 to the 15 allowed.(ˆè²Ô
-ƒjavascript:S4165Ô"fReview this redundant assignment: "column" already holds the assigned value along all execution paths.(¸ÎñÚ
-njavascript:S4138¶"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÎÓèüÿÿÿÿ
-Ujavascript:S1121ß"8Extract the assignment of "column" from this expression.(‚ñúŸ
-Tjavascript:S1121˜	"7Extract the assignment of "count" from this expression.(ÖÎƒê
-6javascript:S2814Ì	"'key' is already defined.(òí†
-njavascript:S4138Ô	"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(ÁŒß´şÿÿÿÿ
-Xjavascript:S1481È
-"6Remove the declaration of the unused 'Range' variable.(Ùë¸òúÿÿÿÿ
-Ujavascript:S1854È
-"3Remove this useless assignment to variable "Range".(Ùë¸òúÿÿÿÿ
-4javascript:S2814Ü
-"'d' is already defined.(¤Ç‘ 
-<javascript:S1186ø
-"Unexpected empty function.(Ä¾¡Œüÿÿÿÿ
-vjavascript:S3776„"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(•Ó¤™ıÿÿÿÿ
-ijavascript:S4138˜"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Í×ä
-rjavascript:S3776›"URefactor this function to reduce its Cognitive Complexity from 135 to the 15 allowed.(ü”Úí
-Mjavascript:S1117›"0'module' is already declared in the upper scope.(ü”Úí
-Njavascript:S1117›"1'exports' is already declared in the upper scope.(ü”Úí
-4javascript:S2814ø"'m' is already defined.(Ç¬üÒ
-Rjavascript:S1117š"0'module' is already declared in the upper scope.(Ñı¯€úÿÿÿÿ
-Sjavascript:S1117š"1'exports' is already declared in the upper scope.(Ñı¯€úÿÿÿÿ
-9javascript:S2814§"'i' is already defined.(Òû¾êøÿÿÿÿ
-xjavascript:S3776²"VRefactor this function to reduce its Cognitive Complexity from 1626 to the 15 allowed.(İõô×ıÿÿÿÿ
-Rjavascript:S1117²"0'module' is already declared in the upper scope.(İõô×ıÿÿÿÿ
-Sjavascript:S1117²"1'exports' is already declared in the upper scope.(İõô×ıÿÿÿÿ
-8javascript:S1116´"Unnecessary semicolon.(Åšşßüÿÿÿÿ
-bjavascript:S2137¶"@Do not use "undefined" to declare a variable - use another name.(®Ÿ’©ÿÿÿÿÿ
-Zjavascript:S1121Ö"=Extract the assignment of "ArrayBuffer" from this expression.(ğ¬à¶
-_javascript:S1121×"=Extract the assignment of "bufferSlice" from this expression.(àïÜŒùÿÿÿÿ
-ijavascript:S1121Ù"GExtract the assignment of "getOwnPropertySymbols" from this expression.(şû…áıÿÿÿÿ
-\javascript:S1121Ú"@Extract the assignment of "getPrototypeOf" from this expression.(™ïÈk
-gjavascript:S1121Ü"JExtract the assignment of "Object.preventExtensions" from this expression.(½íñÙ
-Njavascript:S1656Ü"1'Object.preventExtensions' is assigned to itself.(½íñÙ
-Yjavascript:S1121Ş"<Extract the assignment of "Uint8Array" from this expression.(İù‘
-Sjavascript:S1121â"6Extract the assignment of "func" from this expression.(ë³Œµ
-Sjavascript:S1121ê"6Extract the assignment of "func" from this expression.(µİõã
-\javascript:S1121ğ"?Extract the assignment of "nativeIsArray" from this expression.(¢Ï‘¸
-Yjavascript:S1121ñ"<Extract the assignment of "nativeKeys" from this expression.(À³ö
-Ejavascript:S1186ÿ"#Unexpected empty function 'lodash'.(óöºûÿÿÿÿ
-Yjavascript:S1481†"7Remove the declaration of the unused 'object' variable.(¤¤¡ûÿÿÿÿ
-Vjavascript:S1854†"4Remove this useless assignment to variable "object".(¤¤¡ûÿÿÿÿ
-ajavascript:S4030‡"?Either use this collection's contents or remove the collection.(ÜÔÈŸûÿÿÿÿ
-ajavascript:S3358¸"DExtract this nested ternary operation into an independent statement.(¢ÊìÚ
-Ojavascript:S1117Ç"-'key' is already declared in the upper scope.(ßÉº·ıÿÿÿÿ
-Vjavascript:S1117Ñ"4'collection' is already declared in the upper scope.(“ÿ¢íşÿÿÿÿ
-Rjavascript:S1854”"6Remove this useless assignment to variable "othIsArr".(ŸùÊ|
-Rjavascript:S1117½"0'values' is already declared in the upper scope.( ÑĞùÿÿÿÿ
-Mjavascript:S1117ó"0'values' is already declared in the upper scope.(öé‡
-fjavascript:S3358Ñ"DExtract this nested ternary operation into an independent statement.(Åóÿºùÿÿÿÿ
-ajavascript:S3358Ö"DExtract this nested ternary operation into an independent statement.(ğÃ»
-Vjavascript:S1117"4'collection' is already declared in the upper scope.(“ÿ¢íşÿÿÿÿ
-ajavascript:S3358ƒ"DExtract this nested ternary operation into an independent statement.(Â§¯¿
-Ujavascript:S1481«"8Remove the declaration of the unused 'support' variable.(ĞÄù×
-Njavascript:S1117«"1'support' is already declared in the upper scope.(ĞÄù×
-Rjavascript:S1854«"5Remove this useless assignment to variable "support".(ĞÄù×
-Njavascript:S1117½"1'support' is already declared in the upper scope.(ĞÄù×
-Vjavascript:S1117¨"4'collection' is already declared in the upper scope.(­Ÿ‹Ëıÿÿÿÿ
-fjavascript:S1121²"DExtract the assignment of "freeModule.exports" from this expression.(Ìÿ¸Êûÿÿÿÿ
-fjavascript:S3358½"DExtract this nested ternary operation into an independent statement.(±”»Øıÿÿÿÿ
-fjavascript:S3358½"DExtract this nested ternary operation into an independent statement.(±”»Øıÿÿÿÿ
-sjavascript:S3776¾"VRefactor this function to reduce its Cognitive Complexity from 8862 to the 15 allowed.(º…®Ó
-Mjavascript:S1117¾"0'module' is already declared in the upper scope.(º…®Ó
-Njavascript:S1117¾"1'exports' is already declared in the upper scope.(º…®Ó
-Hjavascript:S3696Í"&Expected an error object to be thrown.(†Ğú›úÿÿÿÿ
-Ojavascript:S1117±"-'key' is already declared in the upper scope.(±Ö·Ÿüÿÿÿÿ
-Sjavascript:S1854¾"1Remove this useless assignment to variable "val".(ÊñÅìÿÿÿÿÿ
-Ojavascript:S1117ü"-'key' is already declared in the upper scope.(±Ö·Ÿüÿÿÿÿ
-Djavascript:S3735—"'Remove this use of the "void" operator.(ÀÕ¢Ü
-Ijavascript:S3735š"'Remove this use of the "void" operator.(®ÿƒÀøÿÿÿÿ
-[javascript:S1301æ"9"switch" statements should have at least 3 "case" clauses(ıÊ‘ øÿÿÿÿ
-wjavascript:S128¡"VEnd this switch case with an unconditional break, continue, return or throw statement.(íĞï°ùÿÿÿÿ
-Ijavascript:S1264—",Replace this "for" loop with a "while" loop.(´ÿÕ™
-rjavascript:S128ã "VEnd this switch case with an unconditional break, continue, return or throw statement.(˜òàÓ
-Ljavascript:S1117°""/'state' is already declared in the upper scope.(àÀ®×
-Qjavascript:S1117Á""/'state' is already declared in the upper scope.(¿³ÿ»ùÿÿÿÿ
-pjavascript:S1871Ë""NThis branch's code block is the same as the block for the branch on line 4423.(¥µşÇÿÿÿÿÿ
-Sjavascript:S1117î""1'options' is already declared in the upper scope.(—’ÿåşÿÿÿÿ
-jjavascript:S1871#"NThis branch's code block is the same as the block for the branch on line 4493.(ÆÎú
-Ijavascript:S1264²$",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Kjavascript:S1117Ú%".'stmt' is already declared in the upper scope.(¹óëí
-Ojavascript:S1854ï%"2Remove this useless assignment to variable "line".(ªÓÛ†
-Djavascript:S2189ò%"('ordinary' is not modified in this loop.(¹¬òY
-rjavascript:S128É&"VEnd this switch case with an unconditional break, continue, return or throw statement.(ø…¼Ò
-Xjavascript:S1121ç'"6Extract the assignment of "expr" from this expression.(Á‘Äöÿÿÿÿÿ
-…javascript:S2234•("cArguments 'right' and 'left' have the same names but not the same order as the function parameters.(İìœÆıÿÿÿÿ
-…javascript:S2234 ("cArguments 'right' and 'left' have the same names but not the same order as the function parameters.(ö×Çûÿÿÿÿ
-…javascript:S2234²("cArguments 'right' and 'left' have the same names but not the same order as the function parameters.(¨¹è–ûÿÿÿÿ
-vjavascript:S4144¹("YUpdate this function so that its implementation is not identical to the one on line 5151.(úÕ•
-…javascript:S2234º("cArguments 'right' and 'left' have the same names but not the same order as the function parameters.(ö×Çûÿÿÿÿ
-Hjavascript:S1117Æ)"+'c' is already declared in the upper scope.(Ş§àÀ
-Ijavascript:S1264À*",Replace this "for" loop with a "while" loop.(´ÿÕ™
-kjavascript:S1871á*"NThis branch's code block is the same as the block for the branch on line 5466.(¦Íä
-Ijavascript:S1264+",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Sjavascript:S3800¤,"6Refactor this function to always return the same type.(‰·ô
-Njavascript:S1117Š-"1'options' is already declared in the upper scope.(®ÕÅ•
-Ijavascript:S1264©-",Replace this "for" loop with a "while" loop.(´ÿÕ™
-@javascript:S2310°-"Remove this assignment of "t".(’ë×Şûÿÿÿÿ
-Sjavascript:S1117©."1'options' is already declared in the upper scope.(ŠâÉ‰úÿÿÿÿ
-Ujavascript:S1117ª."3'statement' is already declared in the upper scope.(ùâ‹øÿÿÿÿÿ
-Ijavascript:S1264î/",Replace this "for" loop with a "while" loop.(´ÿÕ™
-kjavascript:S1871¾0"NThis branch's code block is the same as the block for the branch on line 6204.(Ê»˜Í
-Njavascript:S1117Ó0"1'options' is already declared in the upper scope.(’¢ıı
-Sjavascript:S1117Ş0"1'options' is already declared in the upper scope.(â‡˜óıÿÿÿÿ
-<javascript:S2310ë0"Remove this assignment of "id".(ã…Ö¬
-Ljavascript:S1117ê1"/'value' is already declared in the upper scope.(¬¿ï
-Pjavascript:S1117ó1".'type' is already declared in the upper scope.(óş¿ıûÿÿÿÿ
-Ujavascript:S1117ó1"3'statement' is already declared in the upper scope.(óş¿ıûÿÿÿÿ
-Mjavascript:S1117õ1"0'prefix' is already declared in the upper scope.(Ğ¿ôÉ
-Ijavascript:S1264‹2",Replace this "for" loop with a "while" loop.(´ÿÕ™
-@javascript:S2310›2"Remove this assignment of "t".(’ë×Şûÿÿÿÿ
-Mjavascript:S1117Ú2"0'prefix' is already declared in the upper scope.(Ğ¿ôÉ
-Ijavascript:S1264á2",Replace this "for" loop with a "while" loop.(´ÿÕ™
-@javascript:S2310ó2"Remove this assignment of "t".(’ë×Şûÿÿÿÿ
-qjavascript:S3699Õ3"TRemove this use of the output from "classbody"; "classbody" doesn't return anything.(ÏŸÆÆ
-javascript:S1994â3"_This loop's stop condition tests "state.tokens.next.id, state" but the incrementer updates "i".(·’€Åÿÿÿÿÿ
-Ijavascript:S12646",Replace this "for" loop with a "while" loop.(´ÿÕ™
-.javascript:S1763â6"Unreachable code.(ü¿œ©
-Qjavascript:S1117“7"/'comma' is already declared in the upper scope.(›á¾Ğşÿÿÿÿ
-Ijavascript:S1264í7",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Ijavascript:S1264‚8",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Ijavascript:S1264¼9",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Qjavascript:S1117ã9"4'identifier' is already declared in the upper scope.(™ø³
-Ijavascript:S1264’:",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Ljavascript:S1117°:"/'token' is already declared in the upper scope.(õ³õı
-Kjavascript:S1117×;"/'block' is already declared in the upper scope.(şƒŠN
-Ijavascript:S1264¾<",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Ijavascript:S1264â<",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Ujavascript:S1854ö="3Remove this useless assignment to variable "stack".(ÚÍ ×úÿÿÿÿ
-Pjavascript:S1117†>".'name' is already declared in the upper scope.(Âó‰Àıÿÿÿÿ
-Pjavascript:S1117Š>".'name' is already declared in the upper scope.(Ÿ“ÁÂıÿÿÿÿ
-Pjavascript:S1117>".'name' is already declared in the upper scope.(­³º‹ûÿÿÿÿ
-Kjavascript:S1117—>".'name' is already declared in the upper scope.(å³Ù”
-xjavascript:S3776ì?"VRefactor this function to reduce its Cognitive Complexity from 1807 to the 15 allowed.(¤Ş÷„úÿÿÿÿ
-Rjavascript:S1117ì?"0'module' is already declared in the upper scope.(¤Ş÷„úÿÿÿÿ
-Sjavascript:S1117ì?"1'exports' is already declared in the upper scope.(¤Ş÷„úÿÿÿÿ
-njavascript:S4138—@"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(À±Èıÿÿÿÿ
-rjavascript:S128ÿ@"VEnd this switch case with an unconditional break, continue, return or throw statement.(§µ¤—
-gjavascript:S1871¤A"JThis case's code block is the same as the block for the case on line 8337.(µ×Ë‚
-Kjavascript:S1117B".'body' is already declared in the upper scope.(ãŠû›
-Vjavascript:S1301ÅB"9"switch" statements should have at least 3 "case" clauses(³¡¿¬
-Ijavascript:S1117ˆD",'id' is already declared in the upper scope.(ëĞì¾
-Ijavascript:S1264”D",Replace this "for" loop with a "while" loop.(´ÿÕ™
-Njavascript:S1854…E"1Remove this useless assignment to variable "bad".(êÂ…
-Sjavascript:S1854•E"1Remove this useless assignment to variable "bad".(†î’”øÿÿÿÿ
-Ijavascript:S3735ãH"'Remove this use of the "void" operator.(Åı¢Îıÿÿÿÿ
-Ujavascript:S1854‘I"3Remove this useless assignment to variable "start".(¿•ı¡şÿÿÿÿ
-Ljavascript:S1117ñI"/'token' is already declared in the upper scope.(ŒŒŞÛ
-Qjavascript:S1117ˆJ"/'token' is already declared in the upper scope.(ÖØ¸ƒşÿÿÿÿ
-Ijavascript:S1264ÏJ",Replace this "for" loop with a "while" loop.(´ÿÕ™
-wjavascript:S128¨K"VEnd this switch case with an unconditional break, continue, return or throw statement.(ÄÿÅĞÿÿÿÿÿ
-\javascript:S1515ÅK"?Make sure this function is not called after the loop completes.(Ùãù¹
-ajavascript:S1515ËK"?Make sure this function is not called after the loop completes.(µÁÀ“ùÿÿÿÿ
-Rjavascript:S1117üK"0'module' is already declared in the upper scope.(”î°şøÿÿÿÿ
-Sjavascript:S1117üK"1'exports' is already declared in the upper scope.(”î°şøÿÿÿÿ
-ajavascript:S1134 L"DTake the required action to fix the issue indicated by this comment.(Ù¾†
-Qjavascript:S1135êL"4Complete the task associated to this "TODO" comment.(ÈÂ‰³
-pjavascript:S3776åM"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ñÖûg
-Ljavascript:S1117åM"0'module' is already declared in the upper scope.(ñÖûg
-Mjavascript:S1117åM"1'exports' is already declared in the upper scope.(ñÖûg
-Mjavascript:S1117•N"0'module' is already declared in the upper scope.(áà×á
-Njavascript:S1117•N"1'exports' is already declared in the upper scope.(áà×á
-Mjavascript:S1117¢O"0'module' is already declared in the upper scope.(£—œ
-Njavascript:S1117¢O"1'exports' is already declared in the upper scope.(£—œ
-sjavascript:S3776´O"VRefactor this function to reduce its Cognitive Complexity from 1300 to the 15 allowed.(ƒ‹†ü
-Mjavascript:S1117´O"0'module' is already declared in the upper scope.(ƒ‹†ü
-Njavascript:S1117´O"1'exports' is already declared in the upper scope.(ƒ‹†ü
-|javascript:S4144İO"ZUpdate this function so that its implementation is not identical to the one on line 10197.(±”‹ªûÿÿÿÿ
-Xjavascript:S930ŸR"7This function expects 2 arguments, but 3 were provided.(úáï¼úÿÿÿÿ
-Xjavascript:S930“S"7This function expects 2 arguments, but 3 were provided.(úáï¼úÿÿÿÿ
-Mjavascript:S1117·T"0'module' is already declared in the upper scope.(˜¯ÿ
-Njavascript:S1117·T"1'exports' is already declared in the upper scope.(˜¯ÿ
-wjavascript:S3776éT"URefactor this function to reduce its Cognitive Complexity from 203 to the 15 allowed.(ÖŸ¿Ñşÿÿÿÿ
-Rjavascript:S1117éT"0'module' is already declared in the upper scope.(ÖŸ¿Ñşÿÿÿÿ
-Sjavascript:S1117éT"1'exports' is already declared in the upper scope.(ÖŸ¿Ñşÿÿÿÿ
-Rjavascript:S1117äU"0'module' is already declared in the upper scope.(¢Ùïçúÿÿÿÿ
-Sjavascript:S1117äU"1'exports' is already declared in the upper scope.(¢Ùïçúÿÿÿÿ
-rjavascript:S3776Ö["URefactor this function to reduce its Cognitive Complexity from 106 to the 15 allowed.(ˆè²Ô
-ijavascript:S4138†\"LExpected a `for-of` loop instead of a `for` loop with this simple iteration.(Ö¤‹
-†javascript:S4165¢\"dReview this redundant assignment: "type" already holds the assigned value along all execution paths.(½ôŠ†úÿÿÿÿ
-2javascript:S108°\"Empty block statement.(Óœñã
-xjavascript:S3776»\"VRefactor this function to reduce its Cognitive Complexity from 1613 to the 15 allowed.(˜‰º¥şÿÿÿÿ
-?javascript:S1186½\""Unexpected empty function 'Empty'.(™»ÈÜ
-`javascript:S1121ï\"CExtract the assignment of "supportsAccessors" from this expression.(Ó¿å‘
-ajavascript:S905„]"FExpected an assignment or function call and instead saw an expression.(ï± 
-Ijavascript:S1940¡]"'Use the opposite operator (>=) instead.(ÛÈñúÿÿÿÿ
-Vjavascript:S1135Ü]"4Complete the task associated to this "TODO" comment.(ÊÌøûÿÿÿÿ
-9javascript:S2814Ï_"'getter' is already defined.(£Şüğ
-9javascript:S2814Ğ_"'setter' is already defined.(öÍ»·
-7javascript:S1186€`"Unexpected empty function.(ßï°û
-7javascript:S1186Ù`"Unexpected empty function.(¥øç½
-Mjavascript:S1117Ü`"0'freeze' is already declared in the upper scope.(İèí¦
-Vjavascript:S1135÷`"4Complete the task associated to this "TODO" comment.(ÊÌøûÿÿÿÿ
-Vjavascript:S1481a"4Remove the declaration of the unused 'key' variable.(‡Æ‰ûÿÿÿÿ
-Sjavascript:S1854a"1Remove this useless assignment to variable "key".(‡Æ‰ûÿÿÿÿ
-Jjavascript:S1117a".'keys' is already declared in the upper scope.(ÆÆûe
-Gjavascript:S1481Öa"%Remove unused function 'toPrimitive'.(Ç£“¢ıÿÿÿÿ

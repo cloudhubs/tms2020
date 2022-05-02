@@ -1,8 +1,0 @@
-
-CWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(çåœ¥
-NWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(ÿÁÊáùÿÿÿÿ
-MWeb:TableWithoutCaptionCheck" Add a description to this table.(¿‰˜ÿÿÿÿÿ
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(™À§ãÿÿÿÿÿ
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(™À§ãÿÿÿÿÿ
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(™À§ãÿÿÿÿÿ
-l Web:TableHeaderHasIdOrScopeCheck";Add either an 'id' or a 'scope' attribute to this <th> tag.(™À§ãÿÿÿÿÿ
